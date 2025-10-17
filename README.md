@@ -1,2 +1,2 @@
 # JavaCalculator
-Simple Calc made in Java and JDBC
+Simple Calc made in Java.
